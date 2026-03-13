@@ -16,3 +16,5 @@ sticksandstones.kstrom.com
 a：97 (十六進位：0x61)
 b：98 (十六進位：0x62)
 c：99 (十六進位：0x63) 
+
+## Lab 1
